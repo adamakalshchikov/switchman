@@ -1,0 +1,1 @@
+export { SwitcherSettings } from "./settings";
